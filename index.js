@@ -17,6 +17,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  appendKitten.concat()
+  return appendKitten.concat()
 }
 
